@@ -1,0 +1,13 @@
+C:\Users\jenif\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.exe
+C:\Users\jenif\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.deps.json
+C:\Users\jenif\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.runtimeconfig.json
+C:\Users\jenif\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.runtimeconfig.dev.json
+C:\Users\jenif\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.dll
+C:\Users\jenif\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.pdb
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.csprojAssemblyReference.cache
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.AssemblyInfoInputs.cache
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.AssemblyInfo.cs
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.csproj.CoreCompileInputs.cache
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.dll
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.pdb
+C:\Users\jenif\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.genruntimeconfig.cache
